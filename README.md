@@ -18,15 +18,15 @@ Please reference the UI mockup here
 	- Users should be able to click the add and delete buttons.  
 	- Button, Header, and Text color should come from a configuration route. Font style should also come from this method.
 
-	## Routing: 
-		The page should navigate to a page when a user enters the product id in the url, ie 
+## Routing: 
+The page should navigate to a page when a user enters the product id in the url, ie 
 ```
 		localhost:8080/products/t-12345-6
 ```
 
 
 # Backend: 
-	## Technical Requirements: 
+## Technical Requirements: 
 - Must use Node w/ Express routes
 - No database necessary, just pass back json 
 
