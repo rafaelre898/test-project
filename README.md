@@ -8,7 +8,7 @@ Please reference the UI mockup here
 
 (https://github.com/SmartBIM/engineering-project/blob/main/images/UX-Markup.pdf)
 
-# Front-end: 
+# Frontend: 
 ## Technical Requirements: 
 - Must use React. Bonus points for implementing Redux.
 - Must use the styled components library. https://styled-components.com/
