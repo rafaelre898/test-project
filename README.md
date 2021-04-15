@@ -2,6 +2,8 @@
 
 ## Requirements: 
 
+To start, create a feature branch: /feature/{your name} 
+
 Please reference the UI mockup here 
 
 (https://github.com/SmartBIM/engineering-project/blob/main/images/UX-Markup.pdf)
@@ -41,6 +43,8 @@ The page should navigate to a page when a user enters the product id in the url,
 - A page and route that get all products, and displays them in a list of links that go to the details page. 
 - Any creative styling enhancements.  
 
+
+When complete, do a pull request on the development branch. 
 
 Any questions, please reach out.
 ryan.chesnut@concora.com
