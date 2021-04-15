@@ -4,7 +4,7 @@ prospective employee assessment
 Requirements: 
 
 Front-end: 
-	Technical Requirements: 
+	## Technical Requirements: 
 	- Must use React. Bonus points for implementing Redux.
 	- Must use the styled components library. https://styled-components.com/
 
