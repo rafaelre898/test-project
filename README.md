@@ -16,7 +16,7 @@ Please reference the UI mockup here
 	- A User should be able to navigate to a product details page and view product information.
 	- A User should be able to tab through "product information", "resources", and "other" data. 
 	- Users should be able to click the add and delete buttons.  
-	- Button, Header, and Text color should come from a configuration route. Font style should also come from this method.
+	- Button, Header, and Text color should come from a configuration route. Font style should also come from this method along with the a logo and company name. 
 
 ## Routing: 
 The page should navigate to a page when a user enters the product id in the url, ie 
