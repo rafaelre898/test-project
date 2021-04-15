@@ -21,7 +21,7 @@ Please reference the UI mockup here
 	- Button, Header, and Text color should come from a configuration route. Font style should also come from this method along with the a logo and company name. 
 
 ## Routing: 
-The page should navigate to a page when a user enters the product id in the url, ie 
+The page should navigate when a user enters the product id in the url, i.e. 
 ```
 		localhost:8080/products/t-12345-6
 ```
