@@ -41,6 +41,6 @@ Bonus points:
 Any questions, please reach out.
 
 
-[[https://github.com/SmartBIM/engineering-project/blob/main/images/UX-Markup.pdf|ALT TEXT]]
+[https://github.com/SmartBIM/engineering-project/blob/main/images/UX-Markup.pdf]
 
 
