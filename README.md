@@ -1,15 +1,14 @@
 # engineering-project
-prospective employee assessment
 
-Requirements: 
+## Requirements: 
 
 Front-end: 
 	# Technical Requirements: 
-	- Must use React. Bonus points for implementing Redux.
-	- Must use the styled components library. https://styled-components.com/
+- Must use React. Bonus points for implementing Redux.
+- Must use the styled components library. https://styled-components.com/
 
 
-	User Stories: 
+	## User Stories: 
 	- A User should be able to navigate to a product details page and view product information.
 	- A User should be able to tab through "product information", "resources", and "other" data. 
 	- Users should be able to click the add and delete buttons.  
@@ -17,8 +16,9 @@ Front-end:
 
 	Routing: 
 		The page should navigate to a page when a user enters the product id in the url, ie 
-
+```
 		localhost:8080/products/t-12345-6
+```
 
 
 Backend: 
