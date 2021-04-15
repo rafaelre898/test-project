@@ -39,7 +39,7 @@ The page should navigate to a page when a user enters the product id in the url,
 
 
 
-# Bonus points: 
+# Bonus Points: 
 - A page and route that get all products, and displays them in a list of links that go to the details page. 
 - Any creative styling enhancements.  
 
