@@ -1,4 +1,4 @@
-# engineering-project
+# Engineering Project
 
 ## Requirements: 
 
