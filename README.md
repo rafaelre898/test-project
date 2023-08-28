@@ -2,7 +2,7 @@
 
 ## Requirements: 
 
-To start, create a feature branch: /feature/{your name} 
+To start, create a fork of this repo.
 
 Please reference the UI mockup here 
 
@@ -44,7 +44,7 @@ The page should navigate when a user enters the product id in the url, i.e.
 - Any creative styling enhancements.  
 
 
-When complete, do a pull request on the development branch. 
+When complete, add the fork to your personal Github and send a link. 
 
 Any questions, please reach out.
 ryan.chesnut@concora.com
