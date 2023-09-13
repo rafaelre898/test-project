@@ -2,7 +2,7 @@
 
 ## Requirements: 
 
-To start, create a fork of this repo.
+To start, create a feature branch: /feature/{your name} 
 
 Please reference the UI mockup here 
 
@@ -11,13 +11,16 @@ Please reference the UI mockup here
 # Frontend: 
 ## Technical Requirements: 
 - Must use React. Bonus points for implementing Redux.
-- Must use the styled components library. https://styled-components.com/
+- Must use the Chakra UI for components
 
 
 	## User Stories: 
+	- The system should be multi-tenant
+	- A User should see a list of products upon app load.
 	- A User should be able to navigate to a product details page and view product information.
-	- A User should be able to tab through "product information", "resources", and "other" data. 
+	- A User should be able to tab through "product information" (details about a product), "resources" (attachments that might be linked), and any other data that might be structured around a product. 
 	- Users should be able to click the add and delete buttons.  
+	- A User should be able to configure look and feel of the app. 
 	- Button, Header, and Text color should come from a configuration route. Font style should also come from this method along with the a logo and company name. 
 
 ## Routing: 
@@ -30,7 +33,7 @@ The page should navigate when a user enters the product id in the url, i.e.
 # Backend: 
 ## Technical Requirements: 
 - Must use Node w/ Express routes
-- No database necessary, just pass back json 
+- No database required, just pass back json. However, have a plan on DB implementation
 
 
 	## User Stories: 
@@ -40,11 +43,10 @@ The page should navigate when a user enters the product id in the url, i.e.
 
 
 # Bonus Points: 
-- A page and route that get all products, and displays them in a list of links that go to the details page. 
-- Any creative styling enhancements.  
+- Any creative styling enhancements.
+- Adding Redux   
 
-
-When complete, add the fork to your personal Github and send a link. 
+When complete, send a link to the github repo. 
 
 Any questions, please reach out.
 ryan.chesnut@concora.com
