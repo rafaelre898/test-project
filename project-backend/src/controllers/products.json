@@ -1,0 +1,22 @@
+[
+  {
+    "id": 7974,
+    "name": "ACME-Co",
+    "description": "ACME anvil in iron. with automatic clean-up",
+    "brand": "ACME-Co",
+    "category": "Anvils",
+    "features": [
+      "ClearShield coating for rain sand and TNT protection"
+    ]
+  },
+  {
+    "id": 7975,
+    "name": "Prime-2",
+    "description": "Prime 2 is a dummy product",
+    "brand": "PRIME-2",
+    "category": "dummy",
+    "features": [
+      "Prime 2 has random features"
+    ]
+  }
+]

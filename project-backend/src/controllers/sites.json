@@ -1,0 +1,28 @@
+{
+    "site-1": {
+      "theme": "Light",
+      "logo": "logo1.png",
+      "companyName": "Company A"
+    },
+    "site-2": {
+      "theme": "Dark",
+      "logo": "logo2.png",
+      "companyName": "Company B"
+    },
+    "site-3": {
+      "theme": "Blue",
+      "logo": "logo3.png",
+      "companyName": "Company C"
+    },
+    "site-4": {
+      "theme": "Green",
+      "logo": "logo4.png",
+      "companyName": "Company D"
+    },
+    "site-5": {
+      "theme": "Red",
+      "logo": "logo5.png",
+      "companyName": "Company E"
+    }
+  }
+  
